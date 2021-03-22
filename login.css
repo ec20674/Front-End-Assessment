@@ -2,6 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     height: 500px;
     width: 500px;
+    background-image: url(https://i.ibb.co/9s7x2Rr/maxresdefault.jpg);
     margin-left: 30%;
 }
 
@@ -14,7 +15,7 @@ form {
     background-color: yellow;
 }
 
-input[type=text],
+input[type=username],
 input[type=password] {
     width: 100%;
     padding: 12px 20px;
