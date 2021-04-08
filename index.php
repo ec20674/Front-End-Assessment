@@ -14,22 +14,22 @@
         background-image: url('/img/background.jpg');
     }
 </style>-->
+    
 
-
-<body background="./img/anh.jpg">
+<body background="./img/aaa.jfif">
     <!-- Navbar -->
     <div class="menu">
         <!--Thanh menu-->
         <div class="w3-bar w3-gray w3-card w3-left-align w3-large">
             <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-black w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-            <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white"><img src="./img/logo.jpg" style="height: 24px; width: 30px"></i>Logo</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">PhongGiaHo</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About me</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Experience</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">skill</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Education</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Projects</a>
-            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Blog</a>
+            <a href="/back-end/index.php" class="w3-bar-item w3-button w3-padding-large w3-white"><img src="./img/logo.jpg" style="height: 24px; width: 30px"></i>Logo</a>
+            <a href="/back-end/about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">PhongGiaHo</a>
+            <a href="/back-end/about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About me</a>
+            <a href="/back-end/about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Experience</a>
+            <a href="/back-end/skill.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Skills</a>
+            <a href="/back-end/skill.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Education</a>
+            <a href="/back-end/about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Projects</a>
+            <a href="/back-end/viewblog.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Blog</a>
         </div>
 
         <!-- Navbar on small screens -->
@@ -41,7 +41,7 @@
 
         <i class="imglogo"><img src="./img/logo.jpg" style="width:100px; height: 100px;" > </i>
         <h1 style="text-align:center; font-size:60px">Welcome to my portfolio</h1>
-        <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Login</button>
+        <button onclick="window.location='/back-end/login.php'" class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Login</button>
         <!-- thẻ button để làm button login-->
         <div class="w3-xlarge w3-padding-800">
             <h2 class="icon"><i class="fa fa-facebook-official w3-hover-opacity fa-10x" style="margin: 100px;"></i>

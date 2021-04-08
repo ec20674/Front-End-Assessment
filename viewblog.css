@@ -1,0 +1,7 @@
+hr.rounded {
+    border-top: 5px solid white;
+    border-radius: 5px;
+}
+.container{
+    background-color: green;
+}

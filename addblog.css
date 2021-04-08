@@ -2,7 +2,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     height: 500px;
     width: 500px;
-    background-image: url(https://i.ibb.co/9s7x2Rr/maxresdefault.jpg);
     margin-left: 30%;
 }
 
@@ -15,18 +14,13 @@ form {
     background-color: rgb(30, 196, 247);
 }
 
-input[type=text],
-input[type=password] {
+input[type=text] {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
-}
-
-input[type=password] {
-    height: 200px;
 }
 
 button {
@@ -37,11 +31,6 @@ button {
     border: none;
     cursor: pointer;
     width: 30%;
-}
-
-.nut {
-    margin-left: 20px;
-    text-align: center;
 }
 
 button:hover {
