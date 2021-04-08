@@ -22,8 +22,8 @@
         <!--Thanh menu-->
         <div class="w3-bar w3-gray w3-card w3-left-align w3-large">
             <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-black w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-            <a href="/back-end/index.php" class="w3-bar-item w3-button w3-padding-large w3-white"><img src="./img/logo.jpg" style="height: 24px; width: 30px"></i>Logo</a>
-            <a href="/back-end/about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">PhongGiaHo</a>
+            <a href="./index.php" class="w3-bar-item w3-button w3-padding-large w3-white"><img src="./img/logo.jpg" style="height: 24px; width: 30px"></i>Logo</a>
+            <a href="./about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">PhongGiaHo</a>
             <a href="/back-end/about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About me</a>
             <a href="/back-end/about.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Experience</a>
             <a href="/back-end/skill.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Skills</a>
