@@ -44,7 +44,7 @@
         <button onclick="window.location='./login.php'" class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Login</button>
         <!-- thẻ button để làm button login-->
         <div class="w3-xlarge w3-padding-800">
-            <h2 class="icon"><i class="fa fa-facebook-official w3-hover-opacity fa-10x" style="margin: 100px;"></i>
+                <h2 class="icon"><a href="http://facebook.com/giaphong.ho14"><i class="fa fa-facebook-official w3-hover-opacity fa-10x" style="margin: 100px;"></i>
                 <i class="fa fa-instagram w3-hover-opacity " style="margin: 100px;"></i>
                 <!--các icon-->
                 <i class="fa fa-twitter w3-hover-opacity" style="margin: 100px;"></i>
