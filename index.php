@@ -16,7 +16,7 @@
 </style>-->
     
 
-<body background="./img/s.jpg">
+<body background="./img/back.jpg">
     <!-- Navbar -->
     <div class="menu">
         <!--Thanh menu-->
