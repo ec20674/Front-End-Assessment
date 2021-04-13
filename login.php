@@ -53,7 +53,7 @@
         <input type="text" name="user" placeholder="User Name"><br>
         <input type="password" name="pw" placeholder="Password"><br>
         <input type="submit" value="Login" name="login">
-        <a href="/LamBai/register.php">Register</a>
+        <a href="./register.php">Register</a>
         </form>
     </center>
 </body>
